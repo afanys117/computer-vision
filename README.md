@@ -16,7 +16,7 @@ You can find the code for this project in the hand-tracking folder.
 
 ### Instructions
 1. Clone the repository.
-2. Run the `HandTrackiing.py` script.
+2. Run the `HandTracking.py` script.
 3. The webcam feed will open, and the script will start detecting and tracking hands.
 
 ### Features
